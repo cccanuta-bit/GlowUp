@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GlowUp Detailing",
+      "hasCanvas": false,
+      "bodyTextLen": 1627,
+      "bodyTextHash": "2b3cf74da2e0fe803030b4693e898205e29255cd8550cf8dc41372bcef3a18b0",
+      "bodyTextPrefix": "GU GlowUp Detailing Servicios Agendar ESTÉTICA AUTOMOTRIZ A DOMI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GlowUp Detailing",
+      "hasCanvas": false,
+      "bodyTextLen": 1617,
+      "bodyTextHash": "80ecbdd140d5a27d3e92a5daaeef0a110ead66a61e4d987f3dc3043b7714230c",
+      "bodyTextPrefix": "GU GlowUp Detailing Agendar ESTÉTICA AUTOMOTRIZ A DOMICILIO Tu a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
